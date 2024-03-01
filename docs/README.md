@@ -8,7 +8,7 @@ Documentation about Minecraft: Legacy Console Edition related stuff.
 * [PhoenixARC](https://github.com/PhoenixARC/)
 * [vylryna](https://github.com/vylryna/)
 * [hee](https://github.com/hee/)
-* [miku-666](https://github.com/NexxieHax)
+* [miku-666](https://github.com/NessieHax)
 
 ## Original Repositories
 
