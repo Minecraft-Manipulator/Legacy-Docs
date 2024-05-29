@@ -2,7 +2,7 @@
 
 Documentation about Minecraft: Legacy Console Edition related stuff.
 
-## Orginial Contributors
+## Original Contributors
 
 * [UtterEvergreen1](https://github.com/UtterEvergreen1/)
 * [PhoenixARC](https://github.com/PhoenixARC/)
